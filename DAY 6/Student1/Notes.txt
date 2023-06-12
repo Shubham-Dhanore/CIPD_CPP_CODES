@@ -1,0 +1,4 @@
+4 default Funtions are provided
+- default Constructor - initializes data members with garbage Value
+- copy Constructor - Developer 
+-
